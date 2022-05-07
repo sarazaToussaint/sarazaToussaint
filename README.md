@@ -42,3 +42,10 @@
       <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=sarazaToussaint&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&count_private=true" />
     </a>
   </div>
+
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarazaToussaint&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&hide=html,css,scss&count_private=true&langs_count=8" />
+    </a>
+  </div>
