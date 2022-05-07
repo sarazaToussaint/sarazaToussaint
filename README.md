@@ -1,4 +1,6 @@
-<h2> Hi, I'm Toussaint Saraza! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
+<h2>  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋;I+am+Toussaint+Saraza...;A+Software+Engineer;Nice+to+meet+you+🙂&center=true&size=30">
+  </a></h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 <p><em>Remote Software developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
