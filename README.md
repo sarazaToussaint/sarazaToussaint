@@ -4,8 +4,8 @@
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 <p><em>Remote Software developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Toussaint%20saraza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toussaintsaraza/)](https://www.linkedin.com/in/toussaint-saraza-841b111ba/)
-[![Twitter Badge](https://img.shields.io/badge/-@toussaint_saraza_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/saraza_toussaint)](https://twitter.com/ToussaintSaraz1)
+[![Linkedin Badge](https://img.shields.io/badge/-Toussaint%20Saraza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toussaintsaraza/)](https://www.linkedin.com/in/toussaint-saraza-841b111ba/)
+[![Twitter Badge](https://img.shields.io/badge/-@Toussaint_Saraz1_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/saraza_toussaint)](https://twitter.com/ToussaintSaraz1)
 
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
