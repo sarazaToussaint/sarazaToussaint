@@ -36,9 +36,9 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=400 src="http://github-readme-streak-stats.herokuapp.com?user=Toussaint&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Toussaint" />
+      <img align="left" width=400 src="http://github-readme-streak-stats.herokuapp.com?user=sarazaToussaintt&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Toussaint" />
     </a>
-    <a href="https://github.com/mwafrika/github-readme-stats" title="Go to Source">
-      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=mwafrika&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&count_private=true" />
+    <a href="https://github.com/sarazaToussaint/github-readme-stats" title="Go to Source">
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=sarazaToussaint&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&count_private=true" />
     </a>
   </div>
