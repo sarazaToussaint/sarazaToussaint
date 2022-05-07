@@ -6,11 +6,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Toussaint%20Saraza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toussaintsaraza/)](https://www.linkedin.com/in/toussaint-saraza-841b111ba/)
 [![Twitter Badge](https://img.shields.io/badge/-@Toussaint_Saraz1_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/saraza_toussaint)](https://twitter.com/ToussaintSaraz1)
+<a href="mailto:tmsaraza@gmail.com">[![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)]()</a>
 
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
- 🔭 I'm a software engineer who is passionate about learning new programming langue. 
+ 🔭 I'm a software engineer who is passionate about learning new skills. 
  🕵️‍♀️ I like doing quality work, and a real asshole on pull request reviews.
  🧸 I'm proud of who I am, what I have built, and what I am building. 
  🧑‍💻 Coding is my life. 
