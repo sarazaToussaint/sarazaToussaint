@@ -16,3 +16,29 @@
  🧸 I'm proud of who I am, what I have built, and what I am building. 
  🧑‍💻 Coding is my life. 
  📫 The best way to reach me is to send me an email 
+
+<hr>
+<h2 align="center">Languages | Tools | Skills</h2>
+<br>
+<p align="center">
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Node.JS" height="25" src="images/nodejs.png"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+</p>
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=400 src="http://github-readme-streak-stats.herokuapp.com?user=mwafrika&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="mwafrika" />
+    </a>
+    <a href="https://github.com/mwafrika/github-readme-stats" title="Go to Source">
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=mwafrika&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&count_private=true" />
+    </a>
+  </div>
