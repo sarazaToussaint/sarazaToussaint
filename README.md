@@ -12,7 +12,7 @@
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
  🔭 I'm a software engineer who is passionate about learning new skills. 
- 🕵️‍♀️ I like doing quality work, and a real asshole on pull request reviews.
+ 🕵️‍♀️ I like doing quality work, and a real lover on pull request reviews.
  🧸 I'm proud of who I am, what I have built, and what I am building. 
  🧑‍💻 Coding is my life. 
  📫 The best way to reach me is to send me an email 
