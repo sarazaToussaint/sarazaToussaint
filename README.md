@@ -1,7 +1,6 @@
 <h2>  <a href="https://git.io/typing-svg">
     <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋;I+am+Toussaint+Saraza...;A+Software+Engineer;Nice+to+meet+you+🙂&center=true&size=30">
   </a></h2>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 <h3 align="center">A Full-Stack Web Developer and a Computer Scientist from Rwanda</h3>
 
