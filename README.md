@@ -15,7 +15,7 @@
  🕵️‍♀️ I like doing quality work, and a real lover on pull request reviews.
  🧸 I'm proud of who I am, what I have built, and what I am building. 
  🧑‍💻 Coding is my life. 
- 📫 The best way to reach me is to send me an email 
+ 📫 The best way to reach me is to send me an email.
 
 <hr>
 <h2 align="center">Languages | Tools | Skills</h2>
