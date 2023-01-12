@@ -21,29 +21,25 @@
 
 <img align="right" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
 	
-- 🎓 I have a **master's degree** in Computer Science (networks & distributed systems). Obtained from the University of Constantine2, Algeria.
+- 🎓 I have a **Banchelor's degree** in Computer Science (networks & distributed systems). Obtained from the University of Kigali, Rwanda.
 
 - 👩‍💻 I have a **Full-Stack Software Developement** certificate, obtained from [Microverse.](https://github.com/microverseinc)
 
 - 🌱 I’m currently working on side projects and applying to jobs.
 
-- 💻 All **my projects** are available [here.](https://github.com/ha-manel?tab=repositories)
+- 💻 All **my projects** are available [here.](https://github.com/sarazaToussaint?tab=repositories)
 
-### 🚀 Check out [my portfolio.](https://h-manel.me/)
+### 🚀 Check out [my portfolio.]()
 
 ### 📫 Reach me on:
 
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/ha_manel_" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/manel-hammouche/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
-<a href="https://dev.to/hamanel" target="_blank"><img align="center" src="./images/dev.png" alt="dev community" width="35" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/ToussaintSaraz1_" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/toussaintsaraza/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
+<a href="" target="_blank"><img align="center" src="./images/dev.png" alt="dev community" width="35" /></a>
 </p>
 
-- ✨ Interests: coding, reading books, art, video games.
-
-- ⚡ Fun fact: **the world's first programmer was a woman (Ada Lovelace)**.
-
-- 👩 Pronouns: she/her.
+- ✨ Interests: coding, reading books, Basket-ball, video games.
 
 <h2 align="left">Skills</h2>
 <p align="left">
@@ -72,11 +68,11 @@
 
 <h2 align="left">Certificates & Licenses</h2>
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/a4e97cb8-cbf4-4e53-beb3-7882f6e8947e#gs.xs1jdm" target="blank"><img src="./images/html-css-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/541a98e8-077e-4012-99a1-4064e1f899ce#gs.1jpmti" target="blank"><img src="./images/js-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/acfff22f-8454-49f9-94cc-412a45474831#gs.6nv43p" target="blank"><img src="./images/react-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/e5eb4ffb-dd1c-4e11-806e-4471b975eb3e#gs.8ndmnv" target="blank"><img src="./images/ruby-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/523addae-8430-4be1-b42b-e96bddd8f3cd#gs.do1qdt" target="blank"><img src="./images/ror-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/ead19171-5e17-4ca0-b87a-44e502f92274#gs.f8u1wp" target="blank"><img src="./images/web-dev-badge.png" width="80"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/39ec6ce8-7903-4cdc-8161-34aaa36337ac#gs.5gn233" target="blank"><img src="./images/html-css-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/23ddecdd-d0c9-4f1f-912b-75dd32102843#gs.meqzxj" target="blank"><img src="./images/js-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/7d0f612b-b296-44a8-b4f4-b13817a245e6#gs.mer406" target="blank"><img src="./images/react-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/4ab6f3ce-1591-424a-8dd4-35ba8ae893d9" target="blank"><img src="./images/ruby-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/2f130996-2926-4b79-8bbb-9cf79c93fe3d#gs.merb9w" target="blank"><img src="./images/ror-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/284fa973-c773-4913-bdc8-5c0bb59eaa05#gs.merfkn" target="blank"><img src="./images/web-dev-badge.png" width="80"></a>
 </p>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
