@@ -11,9 +11,9 @@
 <div align="center">
   <! -- <img src="https://badges.pufler.dev/visits/sarazaToussaint/sarazaToussaint?color=3f37c9">
   <img src="https://komarev.com/ghpvc/?username=sarazaToussaint&color=3f37c9">
-  <a href = "https://commits.top/rwanda.html" target="_blank">
+  <!-- <a href = "https://commits.top/rwanda.html" target="_blank">
 		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="sarazaToussaint" target="_blank"/> 
-	</a>
+	</a> -->
 </div>
 
 ---
