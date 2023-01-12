@@ -3,14 +3,14 @@
   </a></h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
-<h3 align="center">A full-stack web developer and a computer scientist from Rwanda</h3>
+<h3 align="center">A Full-Stack Web Developer and a Computer Scientist from Rwanda</h3>
 
 <p align="center">I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with various technologies.</p>
 
 ---
 
 <div align="center">
-  <! -- <img src="https://badges.pufler.dev/visits/ha-manel/sarazaToussaint?color=3f37c9">
+  <! -- <img src="https://badges.pufler.dev/visits/sarazaToussaint/sarazaToussaint?color=3f37c9">
   <img src="https://komarev.com/ghpvc/?username=sarazaToussaint&color=3f37c9">
   <a href = "https://commits.top/rwanda.html" target="_blank">
 		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="sarazaToussaint" target="_blank"/> 
