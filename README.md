@@ -28,7 +28,7 @@
 
 - 💻 All **my projects** are available [here.](https://github.com/sarazaToussaint?tab=repositories)
 
-### 🚀 Check out [my portfolio.]()
+### 🚀 Check out [my portfolio.](https://saraza.netlify.app/)
 
 ### 📫 Reach me on:
 
